@@ -59,8 +59,8 @@ The goal is to use machine learning algorithms to build a predictive model using
 
 2. **Clone the Repository**  
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/mutheeEverlyn/house-price-prediction.git
+   cd house-price-prediction
    
 ⚠️ Error Handling
 Includes exception handling for:
