@@ -79,3 +79,13 @@ Real estate analytics
 Market valuation systems
 
 Investment decision support tools
+
+
+
+
+
+
+
+
+
+
